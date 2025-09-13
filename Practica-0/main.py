@@ -20,8 +20,6 @@ def dibuja():
         t.right(angle)
         t.fd(steps)
     
-print(t.home())
-print(t.position())
 t.forward(100)
 t.left(90)
 t.forward(100)
